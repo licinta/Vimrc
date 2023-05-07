@@ -9,6 +9,8 @@ set guifont=Monaco:h20
 colorschem default
 set tw=28
 set ts=4
+set textwidth=1000
+set nowrap
 set tabstop=4
 set softtabstop=4
 set shiftwidth=4
